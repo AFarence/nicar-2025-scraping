@@ -1,0 +1,11 @@
+shot-scraper
+llm
+llm-gemini
+llm-anthropic
+datasette>=1.0a17
+datasette-enrichments-gpt
+datasette-extract
+datasette-query-assistant
+git-history
+files-to-prompt
+uv
