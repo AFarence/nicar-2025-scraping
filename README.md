@@ -4,7 +4,7 @@ This one hour workshop will be presented at [NICAR 2025](https://www.ire.org/tra
 
 > Interested in new and effective advanced web scraping techniques? Join this session to learn about:
 >
-> - Video scraping: a new technique where you take a screen capture video and feed it into Google's Gemini 1.5 models to turn it into structured data.
+> - Video scraping: a new technique where you take a screen capture video and feed it into Google's Gemini models to turn it into structured data.
 > - Using image models such as Gemini, GPT-4o and Claude 3.5 Sonnet are also extremely effective. It's possible to extract structured data from images, or poorly structured PDF files
 > - Other modern scraping techniques using libraries like Playwright - a modern alternative to Selenium - for browser automation. Browser automation becomes a lot less complicated if you combine it with video or image analysis models.
 >
