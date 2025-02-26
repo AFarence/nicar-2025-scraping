@@ -10,6 +10,13 @@ This one hour workshop will be presented at [NICAR 2025](https://www.ire.org/tra
 >
 > This session is good for: journalists with some web scraping experience. Attendees will need to bring their own laptop (no tablets).
 
+## Tools and resources
+
+This repository is **in development**. Expect it to change a whole lot prior to the workshop.
+
+- [git-scraper-template](https://github.com/simonw/git-scraper-template) is a tool for quickly getting started with [Git scraping](https://simonwillison.net/2020/Oct/9/git-scraping/) - see [my blog](https://simonwillison.net/2025/Feb/26/git-scraper-template/) for details.
+- [shot-scraper-template](https://github.com/simonw/shot-scraper-template) is a similar tool, described in [Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/). 
+
 ## Installation
 
 Run these commands (ideally in a virtual environment created using your preferred mechanism):
