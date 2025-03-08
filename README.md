@@ -43,6 +43,10 @@ This is a **template repository** - you can select "Use this template" and then 
 
 Enter the URL of the website - or direct URL to a JSON file - in the **description** field when you create the repository. It will be configured to track changes to that page once per day, or any time you manually activate the scraper.
 
+Try with this from https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+
+    https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson
+
 To avoid wasted resources, you should deactivate your scraper at the end of this workshop. You can do that by adding a `#` in front of this line in your `.github/workflows/scrape.yml` file:
 
     - cron: '23 6 * * *'
