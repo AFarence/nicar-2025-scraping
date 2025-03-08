@@ -297,7 +297,7 @@ The **FEMA Daily Operations Briefing** is an _incredible_ document, sent out by 
 
 [data-liberation-project/fema-daily-ops-email-to-rss](https://github.com/data-liberation-project/fema-daily-ops-email-to-rss) is an excellent project that tracks those daily releases so you don't have to subscribe to their list.
 
-The PDF briefing for March 8th 2025 [can be found here](https://content.govdelivery.com/attachments/USDHSFEMA/2025/03/08/file_attachments/3187534/FEMA%20Daily%20Ops%20Briefing%2003-08-2025.pdf).
+The PDF briefing for March 8th 2025 [can be found here](https://content.govdelivery.com/attachments/USDHSFEMA/2025/03/08/file_attachments/3187534/FEMA%20Daily%20Ops%20Briefing%2003-08-2025.pdf) (here's [a backup copy](https://static.simonwillison.net/static/2025/FEMA%20Daily%20Ops%20Briefing%2003-08-2025.pdf)).
 
 Page 10 is a good target for extracting structured data:
 
