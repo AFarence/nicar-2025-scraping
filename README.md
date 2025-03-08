@@ -386,6 +386,8 @@ You can use the filepath directly rather than a URL, if you have the file saved 
 
 For a really fun challenge, see if you can get useful structured data out of the extremely complicated map on page 8!
 
+![Extremely dense infographic of the FEMA Common Operating Picture - many numbers and tables and a big map](fema-page-8.png)
+
 ## 4. Video scraping using Google AI Studio
 
 Let's finish with a new technique that I think is really promising: **video scraping**.
