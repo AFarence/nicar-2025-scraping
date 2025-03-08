@@ -427,6 +427,7 @@ Email me at `swillison@` Google's email provider, or come and grab me in the cor
 - [git-scraper-template](https://github.com/simonw/git-scraper-template) is a tool for quickly getting started with [Git scraping](https://simonwillison.net/2020/Oct/9/git-scraping/) - see [my blog](https://simonwillison.net/2025/Feb/26/git-scraper-template/) for details.
 - [shot-scraper-template](https://github.com/simonw/shot-scraper-template) is a similar tool, described in [Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/). 
 - [shot-scraper har](https://shot-scraper.datasette.io/en/stable/har.html) is a new command I built for generating an HTML Archive file of a page. Use the `--zip` option to get that as a zip file, which can include JSON and other assets used to assemble the page.
+- [git-history](https://github.com/simonw/git-history) is a tool for turning GitHub commit logs into a SQLite database you can query using [Datasette](https://datasette.io/). 
 
 ## Installation
 
