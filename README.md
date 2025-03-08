@@ -402,11 +402,19 @@ You can do this using LLM, but in this case let's explore Google's AI Studio too
 
 https://aistudio.google.com/
 
-We'll use their own schema builder tool here, illustrated by this screenshot:
+The SEC website is notoriously resistant to scraping tools. Let's try and pull some useful data out of this document:
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/1444822/000119312524201935/d882430d485bpos.htm
+
+1. Scroll to an interesting section of the document.
+2. Load "QuickTime Player" (I'm afraid I don't know what the equivalent tool on Windows or Linux is) and use "File -> New Screen Recording".
+3. Scroll through the relevant sections, pausing for a second or two on each individually interesting screen
+4. Upload the resulting video to AI Studio and start prompting!
+5. Optionally, try using their schema extraction tool illustrated here:
 
 ![Screenshot showing how to enter system instructions, click on the Edit link under the structured output option in settings, then click the Visual Editor tab and start dropping editing JSON being sure to select the array icon to get multiple records.](ai-studio-structured-data.png)
 
-It's also worth trying out their "Stream Realtime" option, though I've not figured out how to use that for scraping projects yet.
+It's also worth trying out the AI Studio "Stream Realtime" option, though I've not figured out how to use that for scraping projects yet.
 
 ## I want to talk to you about applying these techniques in your newsroom
 
