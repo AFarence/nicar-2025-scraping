@@ -94,7 +94,7 @@ Navigate to https://doge.gov/spend and open the browser DevTools and paste that 
 
 Now run this:
 ```javascript
-copy(tableToObjects(document.querySelectorAll("table')[0]))
+copy(tableToObjects(document.querySelectorAll("table")[0]))
 ```
 Paste the result into a text editor. You should get JSON data extracted from the table.
 
@@ -271,7 +271,7 @@ I got back this:
     input: 60822
     output: 647
 ```
-Using [this pricing calculator]() we can see that for GPT-4o mini with 60,822 input tokens and 647 output tokens the cost is 0.9511 cents.
+Using [this pricing calculator](https://tools.simonwillison.net/llm-prices) we can see that for GPT-4o mini with 60,822 input tokens and 647 output tokens the cost is 0.9511 cents.
 
 That's one of the cheapest models though, this could cost a _lot_ more with some of the others. GPT-4.5 would charge $4.65 for the same thing!
 
