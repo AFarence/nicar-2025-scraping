@@ -27,7 +27,7 @@ This is an interactive, hands-on workshop. We'll be working through four exercis
 1. Building a [Git scraper](https://simonwillison.net/2020/Oct/9/git-scraping/) - an automated scraper in GitHub Actions that records changes to a resource over time
 2. Using in-browser JavaScript and then [shot-scraper](https://shot-scraper.datasette.io/) to extract useful information
 3. Using [LLM](https://llm.datasette.io/) with both OpenAI and Google Gemini to extract structured data from unstructured websites
-4. Video scraping using Google AI Studio
+4. [Video scraping](https://simonwillison.net/2024/Oct/17/video-scraping/) using [Google AI Studio](https://aistudio.google.com/)
 
 ## 1. Git scraping
 
