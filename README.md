@@ -182,7 +182,11 @@ shot-scraper javascript doge.gov document.title
 
 A more complex one ([thanks, Claude](https://claude.ai/share/58b8c5da-1514-426d-a836-a1d538f3a048)) to return their "estimated savings":
 ```bash
-shot-scraper javascript doge.gov/savings "Array.from(document.querySelectorAll('p')).find(p => p.innerText.includes('Estimated Savings')).nextElementSibling.innerText;"
+shot-scraper javascript doge.gov/savings "Array.from(
+  document.querySelectorAll('p')
+).find(
+  p => p.innerText.includes('Estimated Savings')
+).nextElementSibling.innerText;"
 ```
 I got:
 > `"$105B"`
