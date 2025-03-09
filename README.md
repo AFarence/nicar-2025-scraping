@@ -1,6 +1,6 @@
 # Cutting-edge web scraping techniques
 
-This one hour workshop was presented at [NICAR 2025](https://www.ire.org/training/conferences/nicar-2025/) on Saturday March 8th 2025 at 11:30am.
+This one hour workshop was presented at the [NICAR 2025](https://www.ire.org/training/conferences/nicar-2025/) data journalism conference on Saturday March 8th 2025 at 11:30am.
 
 > ### Original abstract
 >
