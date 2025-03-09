@@ -173,7 +173,7 @@ This will produce a VERY long PNG image. You can get a shorter one (and use JPEG
 ```bash
 shot-scraper https://doge.gov/ -o doge.jpg -h 1024
 ```
-The [shot-scraper javascript](https://shot-scraper.datasette.io/en/stable/javascript.htmlw) command is more interesting. It can execute JavaScript against the page and return the results. Here's a simple example:
+The [shot-scraper javascript](https://shot-scraper.datasette.io/en/stable/javascript.html) command is more interesting. It can execute JavaScript against the page and return the results. Here's a simple example:
 ```bash
 shot-scraper javascript doge.gov document.title
 ```
