@@ -51,6 +51,13 @@ To avoid wasted resources, you should deactivate your scraper at the end of this
 
     - cron: '23 6 * * *'
 
+
+**Bonus**: if you want notifications every time something changes, every GitHub repository includes a hidden RSS feed. Add `.atom` to the commits page URL, for example:
+
+    https://github.com/simonw/scrape-openai-models/commits/main.atom
+
+I subscribe to these in [NetNewsWire](https://netnewswire.com).
+
 ## 2. Scraping with in-browser JavaScript
 
 Websites are complicated beasts these days. Scraping just through parsing HTML often doesn't work - we need to load up the entire website in a real browser first.
