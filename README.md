@@ -33,7 +33,7 @@ This is an interactive, hands-on workshop. We'll be working through four exercis
 
 A **git scraper** is a GitHub repository configured to use GitHub Actions to scrape websites or other online resources and record changes to them over time.
 
-Here are [437 examples](https://github.com/topics/git-scraping?o=desc&s=updated) of this category of repo, ordered by most recently scraped!
+Here are [437 examples](https://github.com/topics/git-scraping?o=desc&s=updated) of this category of repo, ordered by most recently scraped! I have a whole lot more notes about [git-scraping on my blog](https://simonwillison.net/tags/git-scraping/).
 
 To create a basic one, first sign into GitHub and then visit this repository:
 
